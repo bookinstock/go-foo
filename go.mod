@@ -1,4 +1,4 @@
-module go-foo
+module github.com/bookinstock/go-foo
 
 go 1.23.4
 

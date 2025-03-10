@@ -1,6 +1,6 @@
 package main
 
-import "go-foo/concurrency"
+import "github.com/bookinstock/go-foo/concurrency"
 
 func main() {
 	// err := mod_b.PrintB()
