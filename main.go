@@ -1,6 +1,6 @@
 package main
 
-import "foo/concurrency"
+import "go-foo/concurrency"
 
 func main() {
 	// err := mod_b.PrintB()

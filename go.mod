@@ -1,4 +1,4 @@
-module foo
+module go-foo
 
 go 1.23.4
 
